@@ -4,6 +4,8 @@ NOISE is a Modlist designed to be built upon by users, with enhanced graphics, m
 
 This Modlist has high compatibility with modded player homes, quests, etc. that allows for you to add what mods you would like (within reason), as long as you take the time to understand how modding works.
 
+[Changelog](https://docs.google.com/document/d/1qOsYUJ-PF3Y50JnbEs67ppv1CH7D1XoumCPhfcGRW5g/)
+
 **REQUIRES NEXUSMODS.COM PREMIUM ACCOUNT**
 
 ## Getting Started
@@ -314,7 +316,12 @@ By default, NOISE comes packed with premade LOD's. However, these LOD's are 2D a
 10. Exit the program and run DynDOLOD
 11. Click advanced on the window that pops up
 12. Set the Output Directory to an empty folder somewhere
-13. Set up DynDOLOD in accordance with the settings shown below and then click the High preset at the top right
+13. Set up DynDOLOD in accordance with the settings shown below, and then click the High preset at the top right.
+    - In the top left selection box, check all of the boxes by right-clicking and then clicking "Select All".
+    - Below the preset buttons, check the boxes marked "Candles" and "FXGlow".
+    - In the options panel, tick the "Generate static LOD", "Generate DynDOLOD" "Windows", "High", "Fake lights in child worlds"
+    - "Create texture atlas" checkboxes.
+    - In the options panel change Max tile size to "512".
 14. Ensure that all worlds are ticked on the top left
 15. Click start - this process takes about 30 minutes depending on hardware
 16. Once it's done make sure the log says it's complete and then hit "Save and Exit"
